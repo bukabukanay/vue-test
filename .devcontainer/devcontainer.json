@@ -1,0 +1,11 @@
+{
+    "name": "vue-test",
+
+    "features": {
+        
+    },
+
+    "forwardPorts": [ 5173, 8080 ],
+
+    "postCreateCommand": "npm i"
+}
